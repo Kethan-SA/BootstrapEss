@@ -1,0 +1,14 @@
+.my-container{
+    background-color:rgb(209, 233, 255);
+    height:100vh;
+    width:100vh;
+}
+.block{
+    height:250px;
+    background-color:red;
+}
+.row-1{
+        height:auto;
+        min-height: 30px;
+        background-color:rgb(238, 60, 60);
+}
